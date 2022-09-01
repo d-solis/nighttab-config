@@ -1,0 +1,1 @@
+# nighttab-config
