@@ -1,1 +1,2 @@
 # nighttab-config
+DEPRECATED
